@@ -1,0 +1,11 @@
+spacy~=3.7.4
+transformers~=4.40.2
+pandas~=2.0.3
+datasets~=2.19.1
+PuLP~=2.8.0
+tqdm~=4.66.4
+torch~=2.3.0
+numpy~=1.24.4
+nltk~=3.8.1
+networkx~=3.1
+summa~=1.2.0
