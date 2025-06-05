@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Sumarização Automática de Artigos de Notícias em Português: Da Extração à Abstração com Abordagens Clássicas e Modelos de Neurais </h1>
+  <h1> Sumarização Automática de Artigos de Notícias em Português: Da Extração à Abstração com Abordagens Clássicas e Modelos Neurais </h1>
   <p>Marcio Alves Sarmento, Hilário Tomaz Alves de Oliveira</p>
 </div>
 
