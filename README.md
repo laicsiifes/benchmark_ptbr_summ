@@ -3,6 +3,10 @@
   <p>Marcio Alves Sarmento, Hilário Tomaz Alves de Oliveira</p>
 </div>
 
+## Artigo Publicado
+
+DOI: https://doi.org/10.5753/stil.2024.245395
+
 ## Exemplos de Resumos
 
 ### TeMário - Documento "mu94ag06-a"
